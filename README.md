@@ -2,11 +2,19 @@
 
 매카톤 겨울방학 프로젝트
 
+### 정기 zoom 회의 
+![KakaoTalk_20210109_173510053](https://user-images.githubusercontent.com/66056440/112933699-517b0400-915b-11eb-8ff5-693126a24197.jpg)
 
-![KakaoTalk_20210109_173510053](https://user-images.githubusercontent.com/66056440/112933605-21cbfc00-915b-11eb-9af3-d85a9a3cba78.jpg)
 
-![paper-review](https://user-images.githubusercontent.com/66056440/112933625-2abccd80-915b-11eb-873b-d7b10f35f3e3.png)
-![object detection (2)](https://user-images.githubusercontent.com/66056440/112933618-285a7380-915b-11eb-9188-1d8a154562fc.PNG)
-![object detection (3)](https://user-images.githubusercontent.com/66056440/112933621-298ba080-915b-11eb-8156-a91126a3507d.PNG)
-![object detection](https://user-images.githubusercontent.com/66056440/112933622-2a243700-915b-11eb-94ba-c10fd3e30f59.PNG)
-![study](https://user-images.githubusercontent.com/66056440/112933626-2abccd80-915b-11eb-9635-8c2b622b6eb8.png)
+### 겨울방학 프로젝트 발표자료
+### 1팀
+![study](https://user-images.githubusercontent.com/66056440/112933747-69528800-915b-11eb-9f9a-41a6b2ba3ac8.png)
+
+### 2팀
+![paper-review](https://user-images.githubusercontent.com/66056440/112933766-74a5b380-915b-11eb-8bad-919376fa20f8.png)
+![object detection](https://user-images.githubusercontent.com/66056440/112933768-75d6e080-915b-11eb-82a0-fb3f961690af.PNG)
+![object detection (2)](https://user-images.githubusercontent.com/66056440/112933772-77080d80-915b-11eb-8fce-ca1c13998f36.PNG)
+
+https://user-images.githubusercontent.com/66056440/112933775-78d1d100-915b-11eb-987f-abf1f09900d0.mp4
+
+### 3팀 
