@@ -27,12 +27,13 @@
 
 ### make gui 
 ![6](https://user-images.githubusercontent.com/66056440/112934368-96ec0100-915c-11eb-891a-e2519e0432e6.png)
+https://user-images.githubusercontent.com/66056440/112933775-78d1d100-915b-11eb-987f-abf1f09900d0.mp4
+
 
 ![paper-review](https://user-images.githubusercontent.com/66056440/112933766-74a5b380-915b-11eb-8bad-919376fa20f8.png)
 ![object detection](https://user-images.githubusercontent.com/66056440/112933768-75d6e080-915b-11eb-82a0-fb3f961690af.PNG)
 ![object detection (2)](https://user-images.githubusercontent.com/66056440/112933772-77080d80-915b-11eb-8fce-ca1c13998f36.PNG)
 
-https://user-images.githubusercontent.com/66056440/112933775-78d1d100-915b-11eb-987f-abf1f09900d0.mp4
 
 ### 2팀
 ![study](https://user-images.githubusercontent.com/66056440/112933747-69528800-915b-11eb-9f9a-41a6b2ba3ac8.png)
