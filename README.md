@@ -1,11 +1,5 @@
 ### Winter-Vacation-Project
 
-매카톤 겨울방학 프로젝트
-
-### 정기 zoom 회의 
-![KakaoTalk_20210109_173510053](https://user-images.githubusercontent.com/66056440/112933699-517b0400-915b-11eb-8ff5-693126a24197.jpg)
-
-
 ### 겨울방학 프로젝트 발표자료
 ### 1팀
 # LineDetection Project 
