@@ -32,13 +32,10 @@
 ![object detection](https://user-images.githubusercontent.com/66056440/112933768-75d6e080-915b-11eb-82a0-fb3f961690af.PNG)
 ![object detection (2)](https://user-images.githubusercontent.com/66056440/112933772-77080d80-915b-11eb-8fce-ca1c13998f36.PNG)
 
-
-
-![study](https://user-images.githubusercontent.com/66056440/112933747-69528800-915b-11eb-9f9a-41a6b2ba3ac8.png)
+https://user-images.githubusercontent.com/66056440/112933775-78d1d100-915b-11eb-987f-abf1f09900d0.mp4
 
 ### 2팀
 ![study](https://user-images.githubusercontent.com/66056440/112933747-69528800-915b-11eb-9f9a-41a6b2ba3ac8.png)
 
-https://user-images.githubusercontent.com/66056440/112933775-78d1d100-915b-11eb-987f-abf1f09900d0.mp4
 
 ### 3팀 
